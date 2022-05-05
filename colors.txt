@@ -1,0 +1,5 @@
+Accent light: b25d27
+Accent dark: 983a18
+Light grey: 625e5b
+Dark grey: 363940
+Dark bg: 040d1e
